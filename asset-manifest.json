@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/armor-visuel/static/css/main.e6c13ad2.css",
-    "main.js": "/armor-visuel/static/js/main.11999833.js",
+    "main.js": "/armor-visuel/static/js/main.de6bd082.js",
     "static/js/453.ff40a331.chunk.js": "/armor-visuel/static/js/453.ff40a331.chunk.js",
     "static/media/logoAV.png": "/armor-visuel/static/media/logoAV.f1e1fedb66c51edb426f.png",
     "index.html": "/armor-visuel/index.html",
     "main.e6c13ad2.css.map": "/armor-visuel/static/css/main.e6c13ad2.css.map",
-    "main.11999833.js.map": "/armor-visuel/static/js/main.11999833.js.map",
+    "main.de6bd082.js.map": "/armor-visuel/static/js/main.de6bd082.js.map",
     "453.ff40a331.chunk.js.map": "/armor-visuel/static/js/453.ff40a331.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.11999833.js"
+    "static/js/main.de6bd082.js"
   ]
 }
