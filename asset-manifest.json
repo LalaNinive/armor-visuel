@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/armor-visuel/static/css/main.43861a47.css",
-    "main.js": "/armor-visuel/static/js/main.aa6f536b.js",
+    "main.css": "/armor-visuel/static/css/main.086dcb38.css",
+    "main.js": "/armor-visuel/static/js/main.a6990e1d.js",
     "static/js/453.ff40a331.chunk.js": "/armor-visuel/static/js/453.ff40a331.chunk.js",
     "static/media/mini logo AV.png": "/armor-visuel/static/media/mini logo AV.0d72bf8b60b9457b2834.png",
     "index.html": "/armor-visuel/index.html",
-    "main.43861a47.css.map": "/armor-visuel/static/css/main.43861a47.css.map",
-    "main.aa6f536b.js.map": "/armor-visuel/static/js/main.aa6f536b.js.map",
+    "main.086dcb38.css.map": "/armor-visuel/static/css/main.086dcb38.css.map",
+    "main.a6990e1d.js.map": "/armor-visuel/static/js/main.a6990e1d.js.map",
     "453.ff40a331.chunk.js.map": "/armor-visuel/static/js/453.ff40a331.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43861a47.css",
-    "static/js/main.aa6f536b.js"
+    "static/css/main.086dcb38.css",
+    "static/js/main.a6990e1d.js"
   ]
 }
