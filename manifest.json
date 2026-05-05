@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Armor Visuel",
+  "name": "Armor Visuel - Graphiste en Bretagne",
+  "description": "Création de logos, affiches, flyers, cartes de visite et visuels réseaux sociaux en Bretagne.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +21,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#063f35",
+  "background_color": "#fffdf8"
 }
